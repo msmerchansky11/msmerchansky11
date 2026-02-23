@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I'm Madeline. I am super interested in genomic data science with applications in cell manufacturing, cancer research and clinical outcomes.
+## I am currently learning about working with clinical data!
+## My expertise lies in RNA sequencing analysis, particularly for pseudotime modeling and cell-cell communication.
+## I love hanging out with my cat Sauerkraut and baking sourdough bread.
 
 <!--
 **msmerchansky11/msmerchansky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
